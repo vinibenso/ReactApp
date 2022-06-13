@@ -1,2 +1,2 @@
 # ReactApp
-Básico de react
+App basico de anotações
